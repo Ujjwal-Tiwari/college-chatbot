@@ -181,7 +181,7 @@
         "extc"
       ],
       "responses": [
-        "Bachelors Programmes provided are Automobile Engineering, Civil Engineering, Computer Engineering, Electrical Engineering, Electronics and Telecommunications Engineering, Information Technology Engineering,Mechanical Engineering and Applied Sciences.For more details visit<a target=\"_blank\" href=\"https://vit.ac.in/\"> here</a>"
+        "Bachelors Programmes provided are Computer Engineering, Electrical Engineering, Electronics and Telecommunications Engineering, Information Technology Engineering,Mechanical Engineering and Applied Sciences.For more details visit<a target=\"_blank\" href=\"https://vit.ac.in/\"> here</a>"
       ],
       "context_set": ""
     },
@@ -297,7 +297,7 @@
       ],
       "responses": [
         " For campus tour please visit the following link.<a target=\"_blank\" href=\"https://campustour.vit.ac.in/\"> here</a>",
-        "For infrastructure details visit <a target=\"_blank\" href=\"https://vit.ac.in/campuslife/overview\"> here</a>"
+        "For infrastructure details visit <a target=\"_blank\" href=\"https://vit.ac.in/about/infrastructure\"> here</a>"
       ],
       "context_set": ""
     },
@@ -318,7 +318,7 @@
       ],
       "responses": [
         "Our college organizes various events during academics.Many Events are useful for technical skils and placements activities.There are many events which are held by deparments.<a target=\"_blank\" href=\"https://vit.ac.in/\"> here</a>",
-        "Our VIT organizes FESTIVAL every year.There are major 2 fest in our college.1)Rivera 2)Gravitas. Visit <a target=\"_blank\" href=\"https://vit.ac.in/\"> here</a>"
+        "Our VIT organizes FESTIVAL every year.There are major 2 fest in our college.1)Rivera 2)Gravitas. Visit <a target=\"_blank\" href=\"https://vit.ac.in/campuslife/fests\"> here</a>"
       ],
       "context_set": ""
     },
@@ -356,7 +356,7 @@
         "What is next lecture"
       ],
       "responses": [
-        "Syllabus of all years and departments is available in the link below. <a target=\"_blank\" href=\"https://vit.ac.in/\"> here</a>"
+        "Syllabus of all years and Schools is available in the link below. <a target=\"_blank\" href=\"https://vit.ac.in/schools\"> here</a>"
       ],
       "context_set": ""
     },
@@ -377,7 +377,7 @@
         "how many libraries"
       ],
       "responses": [
-        "VIT has a huge and spacious library on the second floor. For more details visit <a target=\"_blank\" href=\"https://vit.ac.in/\"> here</a>"
+        "VIT has a huge and spacious library and a digital library on the second floor. For more details visit <a target=\"_blank\" href=\"https://vit.ac.in/academics/library\"> here</a>"
       ],
       "context_set": ""
     },
@@ -396,7 +396,7 @@
         "Cafetaria"
       ],
       "responses": [
-        "VIT has canteen with variety of food available. <a target=\"_blank\" href=\"https://vit.ac.in/\"> here</a>"
+        "VIT has canteen,DC bakery  with variety of food available. <a target=\"_blank\" href=\"https://vit.ac.in/\"> here</a>"
       ],
       "context_set": ""
     },
@@ -427,13 +427,13 @@
         "companies"
       ],
       "responses": [
-        "Various companies are coming to recruite our students and offer maximum packages.MAIN RECRUITERS are TCS,RELIANCE JIO,L AND T INFOTECH etc.For more information visit <a target=\"_blank\" href=\"https://phcet.ac.in/students/placements/our-recruiters/\">here</a>",
-        "Our college oragnise various activities related to placements.For latest update visit <a target=\"_blank\" href=\"https://vit.ac.in/\">here</a>"
+        "Various companies are coming to recruite our students and offer maximum packages.MAIN RECRUITERS are TCS,Accenture, AND Infosys etc.For more information visit <a target=\"_blank\" href=\"https://vit.ac.in/career-development-centre\">here</a>",
+        "Our college oragnise various activities related to placements.For latest update visit <a target=\"_blank\" href=\"https://vit.ac.in/career-development-centre\">here</a>"
       ],
       "context_set": ""
     },
     {
-      "tag": "ithod",
+      "tag": "csehod",
       "patterns": [
         "Who is IT HOD",
         "Where is IT HOD",
@@ -441,33 +441,7 @@
         "name of it hod"
       ],
       "responses": [
-        "Mr. Amol N. Karande is IT HOD who is available on the 4th floor. To know more visit <a target=\"_blank\" href=\"https://vit.ac.in/\">here</a>"
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "civilhod",
-      "patterns": [
-        "Who is Civil HOD",
-        "Where is civil HOD",
-        "civil hod",
-        "name of civil hod"
-      ],
-      "responses": [
-        "Dr. Amit Das Gupta is Civil HOD who is available on 5th floor. To know more visit <a target=\"_blank\" href=\"https://vit.ac.in/\">here</a>"
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "mechhod",
-      "patterns": [
-        "Who is Mechanical HOD",
-        "Where is  mechanical HOD",
-        "mechanical hod",
-        "name of mechanical hod"
-      ],
-      "responses": [
-        "Dr. Gajendra Vasantrao Patil is Mechanical HOD who is available on 3rd floor. To know more visit <a target=\"_blank\" href=\"https://vit.ac.in/\">here</a>"
+        "Mr. Vairamuthu is CSE HOD who is available on the 4th floor. To know more visit <a target=\"_blank\" href=\"https://vit.ac.in/\">here</a>"
       ],
       "context_set": ""
     },
@@ -481,58 +455,6 @@
       ],
       "responses": [
         "Dr. vairamuthu is Computer HOD who is available on 4th floor. To know more visit <a target=\"_blank\" href=\"https://vit.ac.in/\">here</a>"
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "autohod",
-      "patterns": [
-        "Who is Automobile HOD",
-        "Where is Automobile HOD",
-        "automobile hod",
-        "name of automobile hod"
-      ],
-      "responses": [
-        "Mr. Vivek Meshram is Automobile HOD who is available on 3rd floor. To know more visit <a target=\"_blank\" href=\"https://vit.ac.in/\">here</a>"
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "elechod",
-      "patterns": [
-        "Who is Electrical HOD",
-        "Where is Electrical HOD",
-        "electrical hod",
-        "name of electrical hod"
-      ],
-      "responses": [
-        "Dr. Panimaya Selvi Isabel A. is Electrical HOD who is available on 5th floor. To know more visit <a target=\"_blank\" href=\"https://vit.ac.in/\">here</a>"
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "extchod",
-      "patterns": [
-        "Who is EXTC HOD",
-        "Where is EXTC HOD",
-        "extc hod",
-        "name of extc hod"
-      ],
-      "responses": [
-        "Dr. Mansi S. Subhedar is EXTC HOD who is available on 1st floor. To know more visit <a target=\"_blank\" href=\"https://vit.ac.in/\">here</a>"
-      ],
-      "context_set": ""
-    },
-    {
-      "tag": "fehod",
-      "patterns": [
-        "Who is FE HOD",
-        "Where is FE HOD",
-        "fe hod",
-        "name of fe hod"
-      ],
-      "responses": [
-        "Dr. Manvendra Vashisht is FE/ASH HOD who is available on Ground floor. To know more visit <a target=\"_blank\" href=\"https://vit.ac.in/\">here</a>"
       ],
       "context_set": ""
     },
@@ -553,7 +475,7 @@
         "admission engineering"
       ],
       "responses": [
-        "Application can also be submitted online through the VIT Unversity. Refer <a href=https://vit.ac.in>website</a>"
+        "Application can also be submitted online through the VIT Unversity. Refer <a target=\"_blank\" href=\"https://vit.ac.in/admissions/overview\">here</a>"
       ],
       "context_set": ""
     },
@@ -585,7 +507,7 @@
         "seats"
       ],
       "responses": [
-        "For Computer and Civil, the intake is 120.For IT, Electrical, EXTC and Automobile 60 per batch. Mechanical Department has 180 students intake. "
+        "For Computer and IT, the intake is 1200.For Electrical and ECE 160 per batch. Mechanical Department has 180 students intake. "
       ],
       "context_set": ""
     },
@@ -602,13 +524,15 @@
         "what about uniform",
         "do we have to wear uniform"
       ],
-      "responses": ["VIT does not have uniform"],
+      "responses": ["VIT does not have any specific uniform"],
       "context_set": ""
     },
     {
       "tag": "random",
       "patterns": ["I love you", "Will you marry me", "Do you love me"],
-      "responses": ["I am not program for this please ask appropriate query"],
+      "responses": [
+        "I am not programmed for this please ask appropriate query"
+      ],
       "context_set": ""
     },
     {
@@ -688,13 +612,13 @@
       "tag": "hod",
       "patterns": ["hod", "hod name", "who is the hod"],
       "responses": [
-        "HODs differ for each branch, please be more specific like: (HOD it)"
+        "HODs differ for each branch, please be more specific like: CSE hod"
       ]
     },
     {
       "tag": "transport",
       "patterns": [
-        "dtc bus route",
+        "TNSC bus route",
         "mode of transportation",
         "how to get to college",
         "buses for college",
