@@ -30,8 +30,11 @@
   <script src="https://use.typekit.net/hoy3lrg.js"></script>
   <script>try { Typekit.load({ async: true }); } catch (e) { }</script>
   <link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css'>
-  <link rel='stylesheet prefetch'
-    href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.2/css/font-awesome.min.css'>
+  <!-- <link rel='stylesheet prefetch'
+    href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.2/css/font-awesome.min.css'> -->
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css"
+    integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+
   <style class="cp-pen-styles">
     body {
       display: flex;
@@ -71,10 +74,15 @@
       max-width: 340px;
       width: 40%;
       height: 100%;
-      background: #435f7a;
+      /* background: #435f7a; */
+      background-image: url("https://qph.cf2.quoracdn.net/main-qimg-0c5aec5d023253a1d992dfbc836950aa-lq");
+      background-size: cover;
       color: #f5f5f5;
       overflow: hidden;
       position: relative;
+      border-style: solid;
+      border-color: #435f7a;
+      border-width: 5px;
     }
 
     @media screen and (max-width: 735px) {
@@ -470,7 +478,7 @@
     <div id="sidepanel">
       <div id="profile">
         <div class="wrap">
-          <img src="image/vit icon.jpeg" alt="" />
+          <!-- <img src="image/vit icon.jpeg" alt="" /> -->
           <p><br>
             <br>
             <br>
@@ -481,7 +489,7 @@
             <br>
             <br>
             <br>
-          <h1 style="font-size:200%;">VELLORE INSTITUTE OF TECHNOLOGY, VELLORE</h1>
+          <h1 style="font-size:200%;"></h1>
           </p>
 
         </div>
@@ -490,7 +498,7 @@
     </div>
     <div class="content">
       <div class="contact-profile">
-        <img src="https://miro.medium.com/max/327/1*paQ7E6f2VyTKXHpR-aViFg.png" alt="" />
+        <img src="https://vit.ac.in/sites/all/themes/vittheme/favicon.ico" alt="" />
         <p>VITBOT</p>
       </div>
       <div class="messages">
@@ -499,7 +507,7 @@
 
           </li>
           <li class="replies">
-            <img src="https://miro.medium.com/max/327/1*paQ7E6f2VyTKXHpR-aViFg.png" alt="" />
+            <img src="https://vit.ac.in/sites/all/themes/vittheme/favicon.ico" alt="" />
             <p>Hello! I am the VITBOT.<br>Enter your Query related to college.</p>
           </li>
         </ul>
@@ -507,9 +515,9 @@
       <div class="message-input">
         <div class="wrap">
           <div id="userInput">
-            <input id="textInput" type="text" name="msg" placeholder="Write your message..." />
-            <i class="fa fa-paperclip attachment" aria-hidden="true"></i>
-            <button class="submit"><i class="fa fa-paper-plane" aria-hidden="true"></i></button>
+            <input id="textInput" type="text" name="msg" placeholder="Enter your Query..." />
+            <!-- <i class="fa fa-paperclip attachment" aria-hidden="true"></i> -->
+            <button class="submit"><i class="fa  fa-share" aria-hidden="true"></i></button>
           </div>
         </div>
       </div>

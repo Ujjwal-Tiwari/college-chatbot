@@ -9,7 +9,7 @@
         "Hello",
         "Good day",
         "Whats up",
-        "how are ya",
+        "how are you",
         "heyy",
         "whatsup"
       ],
@@ -66,7 +66,7 @@
         "who designed you"
       ],
       "responses": [
-        "Vinit Kumar Singh, Keshav Balesara, Ujjwal Tiwari and Sarthak Monga developed me in 2022, for NLP project"
+        "Vinit Kumar Singh, Keshav Balesara, Ujjwal Tiwari and Sarthak Monga developed for NLP project"
       ],
       "context_set": ""
     },
@@ -170,7 +170,7 @@
         "civil",
         "it",
         "IT",
-        "Computer",
+        "Computer science",
         "Automobile",
         "Mechanical",
         "EXTC",
@@ -181,8 +181,14 @@
         "extc"
       ],
       "responses": [
-        "Bachelors Programmes provided are Computer Engineering, Electrical Engineering, Electronics and Telecommunications Engineering, Information Technology Engineering,Mechanical Engineering and Applied Sciences.For more details visit<a target=\"_blank\" href=\"https://vit.ac.in/\"> here</a>"
+        "Bachelors Programmes provided are Computer Engineering, Electrical Engineering, Electronics and Telecommunications Engineering, Information Technology Engineering,Mechanical Engineering and Applied Sciences.For more details visit<a target=\"_blank\" href=\"https://vit.ac.in/schools\"> here</a>"
       ],
+      "context_set": ""
+    },
+    {
+      "tag": "nlp",
+      "patterns": ["nlp teacher", "best nlp faculty", "best faculty"],
+      "responses": [" Dr. Durgesh Kumar is the best faculty of NLP in VIT."],
       "context_set": ""
     },
     {
@@ -222,7 +228,7 @@
         "fees open be"
       ],
       "responses": [
-        "For Fee details visit <a target=\"_blank\" href=\"https://vit.ac.in/\"> here</a>"
+        "For Fee details visit <a target=\"_blank\" href=\"https://vit.ac.in/admission/ug/fee-structure\"> here</a>"
       ],
       "context_set": ""
     },
@@ -245,7 +251,7 @@
         "location"
       ],
       "responses": [
-        "VIT, Vellore Campus, Tiruvalam Rd, Katpadi, Vellore, Tamil Nadu 632014 For more details visit <a target=\"_blank\" href=\"https://vit.ac.in/\"> here</a>"
+        "VIT, Vellore Campus, Tiruvalam Rd, Katpadi, Vellore, Tamil Nadu 632014 For more details visit <a target=\"_blank\" href=\"https://goo.gl/maps/FRDmLJWrt7g7yB1H7\"> here</a>"
       ],
       "context_set": ""
     },
@@ -318,7 +324,7 @@
       ],
       "responses": [
         "Our college organizes various events during academics.Many Events are useful for technical skils and placements activities.There are many events which are held by deparments.<a target=\"_blank\" href=\"https://vit.ac.in/\"> here</a>",
-        "Our VIT organizes FESTIVAL every year.There are major 2 fest in our college.1)Rivera 2)Gravitas. Visit <a target=\"_blank\" href=\"https://vit.ac.in/campuslife/fests\"> here</a>"
+        "Our VIT organizes Fests every year.There are major 2 fest in VIT.1)Rivera 2)Gravitas. Visit <a target=\"_blank\" href=\"https://vit.ac.in/campuslife/fests\"> here</a>"
       ],
       "context_set": ""
     },
@@ -340,7 +346,7 @@
         "documents needed"
       ],
       "responses": [
-        "To know more about documents required visit<a target=\"_blank\" href=\"https://vit.ac.in/\"> here</a>"
+        "To know more about documents required visit<a target=\"_blank\" href=\"https://vit.ac.in/admissions\"> here</a>"
       ],
       "context_set": ""
     },
@@ -356,7 +362,7 @@
         "What is next lecture"
       ],
       "responses": [
-        "Syllabus of all years and Schools is available in the link below. <a target=\"_blank\" href=\"https://vit.ac.in/schools\"> here</a>"
+        "Syllabus of all years and Schools is available in the link below. <a target=\"_blank\" href=\"https://vit.ac.in/schools/school-of-computer-science-and-engineering\"> here</a>"
       ],
       "context_set": ""
     },
@@ -435,26 +441,26 @@
     {
       "tag": "csehod",
       "patterns": [
-        "Who is IT HOD",
-        "Where is IT HOD",
-        "it hod",
-        "name of it hod"
+        "Who is CSE HOD",
+        "Where is CSE HOD",
+        "CSE hod",
+        "name of CSE hod"
       ],
       "responses": [
-        "Mr. Vairamuthu is CSE HOD who is available on the 4th floor. To know more visit <a target=\"_blank\" href=\"https://vit.ac.in/\">here</a>"
+        "Dr. Vairamuthu S is CSE HOD who is available on the 4th floor. To know more visit <a target=\"_blank\" href=\"https://vit.ac.in/\">here</a>"
       ],
       "context_set": ""
     },
     {
-      "tag": "scopehod",
+      "tag": "scopedean",
       "patterns": [
-        "Who is Computer HOD",
-        "Where is  Computer HOD",
-        "computer hod",
-        "name of computer hod"
+        "Who is SCOPE Dean",
+        "Where is  SCOPE Dean",
+        "computer dean",
+        "name of cse dean"
       ],
       "responses": [
-        "Dr. vairamuthu is Computer HOD who is available on 4th floor. To know more visit <a target=\"_blank\" href=\"https://vit.ac.in/\">here</a>"
+        "Dr. Ramesh Babu K.  is Computer HOD who is available on 4th floor. To know more visit <a target=\"_blank\" href=\"https://vit.ac.in/\">here</a>"
       ],
       "context_set": ""
     },
@@ -489,7 +495,7 @@
         "facilities provided"
       ],
       "responses": [
-        "VIT provides Labs with internet connection, smart classroom, Auditorium, library,canteen. Labs are equipped with modern technologies. Also there is bus facility for the students and faculty"
+        "VIT provides Labs with internet connection, smart classroom, Auditorium, library,canteen. Labs are equipped with modern technologies. Also there is bus facility for the students and faculty.Refer <a target=\"_blank\" href=\"https://vit.ac.in/about/infrastructure\">here</a>"
       ],
       "context_set": ""
     },
@@ -550,6 +556,7 @@
       ],
       "responses": [
         "please use appropriate language",
+        "Please dont use abusive language",
         "Maintaining decency would be appreciated"
       ],
       "context_set": ""
@@ -587,7 +594,7 @@
         "why i should use you"
       ],
       "responses": [
-        "I can answer to low-intermediate questions regarding college",
+        "I can answer to low-intermediate questions regarding VIT",
         "You can ask me questions regarding college, and i will try to answer them"
       ],
       "context_set": ""
